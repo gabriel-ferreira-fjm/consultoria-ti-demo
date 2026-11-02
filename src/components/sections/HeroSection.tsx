@@ -11,7 +11,7 @@ import { useTranslation } from "react-i18next";
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import { VideoBackground } from "@/components/VideoBackground";
-import databaseVideo from "@/assets/videos/database-background.mp4";
+const databaseVideo = "/demo/visual.svg";
 import { useEffect, useState, useRef, useMemo } from "react";
 import type { ReactNode } from "react";
 
