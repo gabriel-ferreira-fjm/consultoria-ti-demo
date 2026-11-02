@@ -1,0 +1,1726 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "cases": "Casos de Éxito",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Administración de Base de Datos",
+    "subtitle": "Inicie el viaje con NEXO Consultoría en TI",
+    "cta": "Contáctenos",
+    "badge": "Soluciones Empresariales de Base de Datos",
+    "scroll": "Deslizar"
+  },
+  "welcome": {
+    "title": "Bienvenido al Futuro de la Gestión de Datos",
+    "description": "Nos especializamos en Administración de Base de Datos, ofreciendo soluciones completas para empresas que desean optimizar su infraestructura de datos. Con más de 30 años de experiencia y un equipo de profesionales certificados, garantizamos eficiencia, seguridad y confiabilidad para su negocio.",
+    "learnMore": "Saber Más"
+  },
+  "whyUs": {
+    "title": "Por Qué Elegirnos",
+    "subtitle": "Excelencia en cada detalle",
+    "certified": {
+      "title": "Equipo Certificado",
+      "description": "Profesionales calificados y experimentados con certificaciones en las principales plataformas de bases de datos."
+    },
+    "innovation": {
+      "title": "Innovación y Eficiencia",
+      "description": "Metodologías modernas y resultados medibles para optimizar su infraestructura de base de datos."
+    },
+    "excellence": {
+      "title": "Compromiso con la Excelencia",
+      "description": "Soluciones a medida que se adaptan perfectamente a las necesidades específicas de su negocio."
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones completas para sus necesidades de base de datos",
+    "remote": {
+      "title": "Administración Remota 24/7",
+      "description": "Monitoreo continuo, mantenimiento y actualizaciones para mantener sus bases de datos funcionando sin problemas."
+    },
+    "backup": {
+      "title": "Backup y Recuperación",
+      "description": "Estrategias de backup personalizadas y recuperación rápida de desastres para proteger sus datos."
+    },
+    "performance": {
+      "title": "Optimización de Rendimiento",
+      "description": "Ajuste y análisis de rendimiento para identificar y eliminar cuellos de botella."
+    },
+    "security": {
+      "title": "Seguridad y Cumplimiento",
+      "description": "Políticas de seguridad y auditorías regulares para GDPR, PCI DSS y otras regulaciones."
+    },
+    "migration": {
+      "title": "Migración de Base de Datos",
+      "description": "Transiciones suaves y modernización de sistemas con replicación completa de datos."
+    },
+    "consulting": {
+      "title": "Consultoría DBA",
+      "description": "Consultoría estratégica para arquitectura de base de datos e implementación de mejores prácticas."
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Servicios",
+      "subtitle": "Moldeando la tecnología de mañana hoy. Explore una nueva era de servicios de base de datos y asociaciones estratégicas.",
+      "tagline": "Gestión especializada para optimizar y proteger sus bases de datos",
+      "headline": "Servicios Especializados de Administración de Base de Datos",
+      "exploreBtn": "Explorar Servicios",
+      "stat1": "Monitoreo",
+      "stat2": "Tiempo de respuesta",
+      "stat3": "Mejores prácticas",
+      "kpi1": "24/7",
+      "kpi2": "SLA",
+      "kpi3": "Seguridad"
+    },
+    "featured": {
+      "label": "Servicios Destacados",
+      "title": "Soluciones de Administración de Base de Datos",
+      "learnMore": "Saber Más",
+      "dba": {
+        "title": "Servicios de Administración de Base de Datos",
+        "description": "Administración integral de bases de datos para rendimiento optimizado, seguridad y disponibilidad."
+      },
+      "expert": {
+        "title": "DBA Especialista",
+        "description": "Servicios DBA de nivel especialista con monitoreo avanzado, ajuste y orientación estratégica."
+      },
+      "consulting": {
+        "title": "Consultoría DBA",
+        "description": "Consultoría especializada para decisiones estratégicas y mejora de la arquitectura de bases de datos."
+      },
+      "support": {
+        "title": "Servicio de Soporte",
+        "description": "Soporte dedicado para garantizar que su base de datos funciona sin problemas con resolución rápida."
+      }
+    },
+    "overview": {
+      "remote": {
+        "f1": "Monitoreo de Base de Datos 24/7",
+        "f2": "Mantenimiento y Actualizaciones",
+        "f3": "Colaboración Transparente",
+        "f4": "Alertas en Tiempo Real"
+      },
+      "backup": {
+        "f1": "Estrategias de Backup Personalizadas",
+        "f2": "Recuperación de Ambiente",
+        "f3": "Protección Contra Amenazas Cibernéticas",
+        "f4": "Backups Automatizados"
+      },
+      "performance": {
+        "f1": "Optimización de Consultas",
+        "f2": "Identificación de Cuellos de Botella",
+        "f3": "Soporte al Desarrollo",
+        "f4": "Informes de Rendimiento"
+      },
+      "security": {
+        "f1": "Cumplimiento GDPR",
+        "f2": "Normas PCI DSS",
+        "f3": "Auditorías Regulares",
+        "f4": "Control de Accesos"
+      },
+      "migration": {
+        "f1": "Transiciones Suaves",
+        "f2": "Modernización de Sistemas",
+        "f3": "Replicación de Datos",
+        "f4": "Cero Tiempo de Inactividad"
+      },
+      "consulting": {
+        "f1": "Revisión de Arquitectura",
+        "f2": "Mejores Prácticas",
+        "f3": "Formación de Equipos",
+        "f4": "Planificación Estratégica"
+      }
+    },
+    "showDetails": "Mostrar Detalles",
+    "hideDetails": "Ocultar Detalles",
+    "details": {
+      "remote": {
+        "subtitle": "Gestión eficiente de sus bases de datos",
+        "title": "Administración Remota de Base de Datos",
+        "description": "Nuestro equipo dedicado monitoriza y optimiza sus bases de datos 24 horas al día, garantizando rendimiento máximo y resolución rápida de problemas. Con mantenimiento proactivo y soporte, le permitimos concentrarse en sus actividades principales.",
+        "sideText": "Ofrecemos servicios integrales de administración remota de base de datos diseñados para mantener sus datos seguros y accesibles en todo momento. Al aprovechar nuestra experiencia, puede eliminar esfuerzos costosos de personal.",
+        "features": {
+          "monitoring": "Monitoreo 24/7 para Rendimiento Óptimo: monitoreo continuo para garantizar que sus bases de datos operan con máxima eficiencia.",
+          "maintenance": "Mantenimiento y Actualizaciones Proactivas: garantía de que sus sistemas están siempre actualizados con los últimos parches.",
+          "optimization": "Optimización de Rendimiento Personalizada: estrategias adaptadas a las necesidades específicas de su negocio.",
+          "resolution": "Identificación y Resolución Rápida de Problemas: herramientas avanzadas para detectar y resolver problemas rápidamente.",
+          "scalability": "Escalabilidad para Negocios en Crecimiento: escalar la infraestructura de la base de datos a medida que el negocio evoluciona.",
+          "security": "Operaciones de Base de Datos Seguras: protocolos de seguridad robustos para proteger información sensible.",
+          "collaboration": "Colaboración con su Equipo de TI: actuando como extensión de su equipo para apoyar iniciativas estratégicas."
+        }
+      },
+      "backup": {
+        "subtitle": "Soluciones esenciales para proteger sus datos",
+        "title": "Backup y Recuperación de Base de Datos",
+        "description": "Implementación de estrategias de backup robustas y planes de recuperación de desastres para minimizar el impacto de fallos de sistema, desastres o ciberataques. Nuestras soluciones garantizan tiempo de inactividad mínimo y continuidad del negocio.",
+        "sideText": "Proporcionamos servicios integrales de backup y recuperación diseñados para mantener las operaciones de su negocio funcionando sin interrupciones. Con nuestro equipo técnico dedicado, puede tener la tranquilidad de saber que sus datos están protegidos.",
+        "features": {
+          "strategies": "Estrategias de Backup Integrales: planes adaptados para garantizar que sus datos se almacenan de forma segura.",
+          "disaster": "Preparación para Recuperación de Desastres: planes para minimizar el tiempo de inactividad y restaurar sistemas críticos.",
+          "storage": "Soluciones de Almacenamiento Seguro: tecnologías de encriptación de punta para proteger los datos de backup.",
+          "rapid": "Recuperación Rápida para Continuidad del Negocio: recuperación eficiente para mantener operaciones ininterrumpidas.",
+          "testing": "Pruebas y Validación Regulares: pruebas periódicas para garantizar la confiabilidad de los procesos de backup.",
+          "cyber": "Protección Contra Amenazas Cibernéticas: estrategias para proteger backups contra ransomware y otras amenazas.",
+          "scalable": "Soluciones Escalables: sistemas flexibles que crecen con su negocio."
+        }
+      },
+      "monitoring": {
+        "subtitle": "Vigilancia constante para rendimiento óptimo",
+        "title": "Monitoreo de Base de Datos 24/7",
+        "description": "A través de herramientas de monitoreo continuo, identificamos y resolvemos proactivamente problemas antes de que se agraven. Nuestro enfoque incluye mantenimiento regular, optimización de rendimiento y actualizaciones de seguridad.",
+        "sideText": "Proporcionamos servicios integrales de monitoreo que permiten a las organizaciones mantener total visibilidad sobre sus sistemas de información. Nuestro servicio incluye soporte 24/7 para respuesta a incidentes."
+      },
+      "support": {
+        "subtitle": "Orientación especializada para decisiones informadas",
+        "title": "Soporte DBA",
+        "description": "Nuestro soporte DBA va más allá del acceso a datos — ofrecemos gestión proactiva, optimización de rendimiento y resolución de problemas. Nuestro equipo está dedicado a mantener el rendimiento máximo y apoyar el crecimiento de su negocio.",
+        "sideText": "Proporcionamos servicios de soporte DBA que capacitan a las empresas para tomar decisiones informadas a través de acceso eficiente a datos críticos. Utilizando herramientas avanzadas y metodologías comprobadas."
+      },
+      "migration": {
+        "subtitle": "Transiciones para operaciones ininterrumpidas",
+        "title": "Migración de Base de Datos",
+        "description": "Nos especializamos en migración segura de base de datos de punta a punta, desde verificaciones de integridad de datos hasta optimización en el nuevo ambiente. Garantizamos una transición suave con cero pérdida de datos.",
+        "sideText": "Nuestros servicios de migración hacen que la transferencia de datos entre sistemas sea simple y con mínima perturbación. Garantizamos que el proceso es eficiente, permitiendo que su negocio continúe operando."
+      },
+      "replication": {
+        "subtitle": "Mejorar la accesibilidad y confiabilidad de los datos",
+        "title": "Replicación de Base de Datos",
+        "description": "Nuestras soluciones de replicación permiten la distribución de datos en tiempo real, aumentando la redundancia del sistema y protegiendo contra la pérdida de datos. Implementamos estrategias robustas de replicación.",
+        "sideText": "La replicación de datos mejora el rendimiento y la disponibilidad al sincronizar información empresarial en múltiples bases de datos. Permite compartir datos entre sistemas de forma eficiente."
+      },
+      "upgrades": {
+        "subtitle": "Mantenga sus sistemas actualizados y eficientes",
+        "title": "Actualizaciones de Base de Datos",
+        "description": "Nuestros servicios incluyen transiciones a las últimas versiones, mejoras de rendimiento e implementación de nuevas funcionalidades adaptadas a su negocio. Con foco en minimizar el tiempo de inactividad.",
+        "sideText": "Ofrecemos un conjunto integral de servicios para garantizar que sus bases de datos se mantienen actualizadas y totalmente operativas. Nuestro equipo se especializa en la gestión y optimización."
+      },
+      "patch": {
+        "subtitle": "Garantizar seguridad y estabilidad",
+        "title": "Gestión de Parches de Base de Datos",
+        "description": "Con nuestro enfoque proactivo, monitorizamos y evaluamos vulnerabilidades regularmente, aplicando actualizaciones necesarias para mejorar la seguridad y el rendimiento.",
+        "sideText": "Nuestros servicios de gestión de parches proporcionan la confianza de que sus datos permanecen seguros y actualizados. Garantizamos que las aplicaciones de parches se ejecutan sin perturbaciones."
+      },
+      "performance": {
+        "subtitle": "Maximizar velocidad y eficiencia",
+        "title": "Optimización de Rendimiento",
+        "description": "Al identificar cuellos de botella e implementar mejores prácticas, garantizamos que su base de datos opera con rendimiento máximo. Nuestro equipo monitoriza y ajusta continuamente las métricas.",
+        "sideText": "Optimice el rendimiento de su base de datos con estrategias que incluyen ajuste de consultas, indexación eficaz y utilización eficiente de recursos."
+      },
+      "security": {
+        "subtitle": "Proteger datos sensibles",
+        "title": "Seguridad y Cumplimiento",
+        "description": "Realizamos evaluaciones de riesgo y auditorías regulares para identificar vulnerabilidades. Nuestro equipo se mantiene actualizado sobre los requisitos regulatorios más recientes.",
+        "sideText": "Implementación de medidas de seguridad robustas para proteger datos sensibles. Nuestras soluciones garantizan cumplimiento con GDPR, HIPAA y PCI DSS."
+      },
+      "resource": {
+        "subtitle": "Crecimiento sin esfuerzo para atender la demanda",
+        "title": "Gestión de Recursos",
+        "description": "Nuestro equipo analiza sus necesidades para diseñar estrategias de gestión de recursos que maximizan la eficiencia y minimizan costos. Monitorizamos proactivamente las métricas de rendimiento.",
+        "sideText": "Escale sus bases de datos de forma eficiente para lidiar con volúmenes crecientes de datos. Nuestras soluciones utilizan clustering, sharding y tecnologías en la nube."
+      },
+      "strategic": {
+        "subtitle": "Alinear tecnología con los objetivos del negocio",
+        "title": "Planificación Estratégica",
+        "description": "Realizamos evaluaciones de su infraestructura actual para identificar oportunidades de mejora e innovación. Ayudamos a desarrollar una hoja de ruta estratégica robusta.",
+        "sideText": "Mejorar la toma de decisiones estratégicas ofreciendo insights sobre tendencias y mejores prácticas. Nuestro equipo colabora con las partes interesadas para diseñar arquitecturas que soporten el crecimiento."
+      },
+      "title": "Detalles del servicio",
+      "subtitle": "Explore cada servicio con secciones claras, beneficios objetivos y detalles opcionales.",
+      "navTitle": "Categorías",
+      "tipTitle": "Consejo",
+      "tipText": "Abra apenas lo que necesita — el resto se mantiene compacto para una lectura más rápida.",
+      "sideTitle": "Lo que recibe",
+      "featuresTitle": "Puntos clave",
+      "noteTitle": "Nota",
+      "noteText": "Este servicio se ajusta a cada ambiente — solicite una evaluación rápida para definir el alcance exacto.",
+      "cta": "Hable con un especialista"
+    },
+    "custom": {
+      "subtitle": "Soluciones adaptadas a sus necesidades de datos",
+      "title": "Servicios de Desarrollo de Base de Datos Personalizados",
+      "description": "El desarrollo de bases de datos personalizadas es una estrategia eficiente para mejorar la eficiencia y precisión de su negocio. Con años de experiencia, entregamos servicios de primera que ayudan a maximizar el valor de sus datos.",
+      "cta": "¿Tiene una necesidad de desarrollo de base de datos?",
+      "pill1": "Esquema a medida",
+      "pill2": "Seguridad en primer lugar",
+      "pill3": "Listo para rendimiento"
+    },
+    "categories": {
+      "operations": "Operaciones",
+      "reliability": "Fiabilidad",
+      "performance": "Rendimiento",
+      "security": "Seguridad",
+      "delivery": "Entrega",
+      "strategy": "Estrategia"
+    }
+  },
+  "engines": {
+    "title": "Motores de Base de Datos",
+    "subtitle": "Trabajamos con las principales tecnologías de bases de datos"
+  },
+  "stats": {
+    "years": "Años de Experiencia",
+    "professionals": "Profesionales de TI",
+    "projects": "Proyectos Exitosos"
+  },
+  "packages": {
+    "title": "Paquetes de Soporte",
+    "subtitle": "Opciones flexibles para sus necesidades",
+    "coverage": {
+      "title": "Opciones de Cobertura",
+      "8x5": "8x5 Horario Comercial",
+      "24x7": "24/7 Cobertura Total",
+      "custom": "Horario Personalizado"
+    },
+    "contract": {
+      "title": "Tipos de Contrato",
+      "hourly": "Tarifa Horaria",
+      "annual": "Franquicia Anual",
+      "scheduled": "Visitas Programadas",
+      "emergency": "Soporte de Emergencia"
+    }
+  },
+  "cta": {
+    "title": "Hablemos Sobre su Proyecto",
+    "subtitle": "Agende una consulta gratuita con nuestros especialistas",
+    "button": "Entre en Contacto"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos aquí para ayudar",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Dirección de Email",
+      "phone": "Número de Teléfono",
+      "company": "Empresa",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado con éxito!",
+      "error": "Error al enviar el mensaje. Por favor, inténtelo de nuevo.",
+      "placeholders": {
+        "name": "Juan Pérez",
+        "email": "contacto@example.invalid",
+        "phone": "000 000 000",
+        "company": "Nombre de la Empresa",
+        "subject": "Seleccione un asunto",
+        "message": "Cuéntenos sobre su proyecto..."
+      },
+      "errors": {
+        "required": "Campo obligatorio",
+        "emailInvalid": "Email válido obligatorio"
+      }
+    },
+    "subjects": {
+      "general": "Información General",
+      "quote": "Solicitar Presupuesto",
+      "support": "Soporte Técnico",
+      "partnership": "Asociación"
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "email": "Email",
+      "brazil": "Oficina en Brasil",
+      "portugal": "Oficina en Portugal"
+    },
+    "whatsapp": {
+      "title": "WhatsApp",
+      "description": "Hable con nosotros instantáneamente"
+    }
+  },
+  "footer": {
+    "description": "Nexo Data es una empresa internacional de consultoría en TI especializada en administración de bases de datos, con más de 30 años de experiencia y oficinas en Brasil y Portugal.",
+    "quickLinks": "Enlaces Rápidos",
+    "ourServices": "Nuestros Servicios",
+    "contactUs": "Contáctenos",
+    "reviews": "Reseñas de Google",
+    "starsRating": "Calificación 5 estrellas",
+    "copyright": "© 2026 - NEXO Consultoría en TI - Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "language": "Idiomas"
+  },
+  "about": {
+    "title": "Sobre Nexo Data",
+    "subtitle": "30+ Años de Excelencia en Administración de Bases de Datos",
+    "history": {
+      "title": "Nuestra Historia",
+      "description": "Fundada con la visión de proporcionar servicios de administración de bases de datos de clase mundial, Nexo Data ha crecido para convertirse en un socio de confianza para empresas en múltiples continentes."
+    },
+    "mission": {
+      "title": "Misión",
+      "description": "Entregar soluciones excepcionales de gestión de bases de datos que capacitan a las empresas para alcanzar su pleno potencial."
+    },
+    "vision": {
+      "title": "Visión",
+      "description": "Ser el líder global en consultoría de bases de datos, reconocido por la innovación, confiabilidad y éxito de los clientes."
+    },
+    "values": {
+      "title": "Valores",
+      "excellence": "Excelencia en cada proyecto",
+      "integrity": "Integridad y transparencia",
+      "innovation": "Innovación continua",
+      "partnership": "Verdadera asociación con los clientes"
+    },
+    "stats": {
+      "countries": "Países",
+      "professionals": "Profesionales"
+    },
+    "journey": {
+      "title": "Nuestro Viaje"
+    },
+    "timeline": {
+      "founded": {
+        "title": "Fundación",
+        "description": "Nexo Data fue establecida en Brasil"
+      },
+      "expansion": {
+        "title": "Expansión Internacional",
+        "description": "Apertura de oficina en Portugal"
+      },
+      "projects": {
+        "title": "500+ Proyectos",
+        "description": "Alcanzamos el hito de 500 proyectos exitosos"
+      },
+      "anniversary": {
+        "title": "30 Años",
+        "description": "Celebrando tres décadas de excelencia"
+      }
+    }
+  },
+  "cases": {
+    "title": "Casos de Éxito",
+    "subtitle": "Resultados reales para empresas reales",
+    "viewCase": "Ver Estudio de Caso",
+    "worldPresence": "Presencia Mundial Consolidada",
+    "worldPresenceSubtitle": "Servimos clientes en múltiples continentes con excelencia",
+    "clientsTrust": "Ellos Confían en Nosotros",
+    "clientsTrustSubtitle": "Empresas líderes en todo el mundo confían en nuestra experiencia",
+    "countries": "Países",
+    "regions": {
+      "global": "Clientes Globales",
+      "portugal": "Portugal",
+      "europe": "Europa",
+      "brazil": "Brasil"
+    },
+    "tech": {
+      "label": "Tecnología",
+      "title": "Plataformas de Base de Datos con las que Trabajamos",
+      "subtitle": "Del legado al cloud-native — soportamos, afinamos, migramos y protegemos su stack de datos.",
+      "note": "Plataformas seleccionadas (lista expandible)",
+      "p1": "Optimización de Rendimiento",
+      "p1d": "Optimización de consultas, estrategias de indexación y planificación de capacidad.",
+      "p2": "Fiabilidad y DR",
+      "p2d": "Backups, replicación, alta disponibilidad y pruebas de recuperación de desastres.",
+      "p3": "Seguridad",
+      "p3d": "Hardening, controles de acceso, auditoría y prácticas listas para cumplimiento."
+    }
+  },
+  "blog": {
+    "badge": "Insights y Artículos",
+    "title": "Blog e Insights",
+    "subtitle": "Artículos especializados sobre administración de bases de datos, optimización de rendimiento y mejores prácticas de la industria.",
+    "exploreBtn": "Explorar Artículos",
+    "readMore": "Leer Más",
+    "categoriesTitle": "Categorías",
+    "recentPosts": "Publicaciones Recientes",
+    "backToBlog": "Volver al Blog",
+    "shareArticle": "Comparta este artículo",
+    "prevArticle": "Anterior",
+    "nextArticle": "Siguiente",
+    "relatedArticles": "Artículos Relacionados",
+    "searchPlaceholder": "Buscar artículos...",
+    "noResults": "No se encontraron artículos con los criterios seleccionados.",
+    "stats": {
+      "articles": "Artículos",
+      "categories": "Categorías",
+      "years": "Años Exp."
+    },
+    "categories": {
+      "all": "Todo",
+      "performance": "Actuación",
+      "migration": "Migración",
+      "security": "Seguridad",
+      "comparison": "Comparación",
+      "reliability": "Fiabilidad"
+    },
+    "keyTakeaways": "Conclusiones Clave",
+    "bestPractices": "Mejores Prácticas",
+    "copyCode": "Copiar",
+    "table": {
+      "feature": "Característica",
+      "option1": "Opción 1",
+      "option2": "Opción 2"
+    },
+    "featured": {
+      "label": "Destacado",
+      "title": "Últimos Insights"
+    },
+    "all": {
+      "title": "Todos los Artículos",
+      "subtitle": "Explore nuestra colección completa de insights y tutoriales sobre bases de datos."
+    },
+    "posts": {
+      "optimization": {
+        "title": "Mejores Prácticas de Optimización de Base de Datos",
+        "excerpt": "Descubra las técnicas más eficaces para optimizar el rendimiento de su base de datos, desde estrategias de indexación hasta ajuste de consultas y gestión de recursos.",
+        "content": {
+          "sections": [
+            {
+              "type": "heading",
+              "text": "Por qué la Optimización es Crítica para el Negocio"
+            },
+            {
+              "type": "paragraph",
+              "text": "La optimización de base de datos no es solo una cuestión técnica — es un imperativo de negocio. Bases de datos mal optimizadas pueden costar millones en ingresos perdidos, productividad reducida y experiencias de cliente deterioradas. Estudios demuestran que cada segundo adicional en el tiempo de respuesta puede resultar en una caída del 7% en las conversiones."
+            },
+            {
+              "type": "stats",
+              "items": [
+                {
+                  "value": "47%",
+                  "label": "Reducción media de costos con optimización"
+                },
+                {
+                  "value": "3.2x",
+                  "label": "Mejora típica de rendimiento"
+                },
+                {
+                  "value": "92%",
+                  "label": "De las empresas reportan ROI positivo"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "La optimización eficaz comienza con la comprensión de tres pilares fundamentales: indexación estratégica, ajuste de consultas y gestión de recursos. Cada uno de estos pilares requiere atención especializada y monitoreo continuo."
+            },
+            {
+              "type": "heading",
+              "text": "Estrategias de Indexación Avanzadas"
+            },
+            {
+              "type": "paragraph",
+              "text": "La indexación es la herramienta más poderosa en el arsenal de un DBA. Un índice bien diseñado puede reducir el tiempo de ejecución de consultas de minutos a milisegundos. Sin embargo, índices mal planificados pueden degradar significativamente el rendimiento de operaciones de escritura."
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "Los índices deben crearse con base en patrones reales de consulta, no en suposiciones",
+                "Cada índice adicional acelera lecturas pero desacelera escrituras — encuentre el equilibrio",
+                "Los índices compuestos deben seguir la regla de selectividad: columnas más selectivas primero",
+                "Los índices no utilizados desperdician recursos — audite y remueva regularmente",
+                "Los índices covering (include columns) pueden eliminar lookups de tabla completamente"
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "Utilice herramientas de Missing Index DMVs (SQL Server) o pg_stat_user_indexes (PostgreSQL) para identificar oportunidades de indexación basadas en patrones reales de utilización."
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Crear índice compuesto optimizado\nCREATE INDEX idx_orders_customer_date \nON orders (customer_id, order_date DESC)\nINCLUDE (total_amount, status)\nWHERE status IN ('pending', 'processing');\n\n-- Analizar utilización de índices\nSELECT \n    i.name AS index_name,\n    s.user_seeks,\n    s.user_scans,\n    s.user_updates,\n    s.last_user_seek\nFROM sys.indexes i\nJOIN sys.dm_db_index_usage_stats s \n    ON i.object_id = s.object_id \n    AND i.index_id = s.index_id\nWHERE s.user_seeks + s.user_scans < s.user_updates;"
+            },
+            {
+              "type": "heading",
+              "text": "Técnicas Avanzadas de Ajuste de Consultas"
+            },
+            {
+              "type": "paragraph",
+              "text": "El ajuste de consultas es un arte que combina conocimiento profundo del optimizador de consultas con comprensión del modelo de datos y patrones de acceso. Consultas mal escritas pueden consumir recursos desproporcionados y crear cuellos de botella en todo el sistema."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Evite SELECT * — especifique solo las columnas necesarias para reducir I/O y utilización de red",
+                "Utilice CTEs (Common Table Expressions) para consultas complejas pero evite CTEs recursivos innecesarios",
+                "Implemente paginación eficiente con OFFSET/FETCH o keyset pagination para grandes resultsets",
+                "Evite funciones en cláusulas WHERE que impiden la utilización de índices (non-SARGable)",
+                "Considere table hints solo como último recurso después de intentar todas las otras optimizaciones",
+                "Utilice EXISTS en vez de IN para subqueries correlacionadas"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- ❌ Consulta no optimizada\nSELECT * FROM orders o\nWHERE YEAR(order_date) = 2024\nAND customer_id IN (\n    SELECT customer_id FROM customers \n    WHERE country = 'Portugal'\n);\n\n-- ✅ Consulta optimizada\nSELECT o.order_id, o.customer_id, o.order_date, o.total_amount\nFROM orders o\nINNER JOIN customers c ON o.customer_id = c.customer_id\nWHERE o.order_date >= '2024-01-01' \n  AND o.order_date < '2025-01-01'\n  AND c.country = 'Portugal';"
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "Consultas implícitas (conversiones de tipo automáticas) pueden impedir la utilización de índices. Siempre especifique tipos de datos explícitamente en las comparaciones."
+            },
+            {
+              "type": "heading",
+              "text": "Gestión de Recursos y Planificación de Capacidad"
+            },
+            {
+              "type": "paragraph",
+              "text": "La gestión eficaz de recursos garantiza que su base de datos tenga CPU, memoria y almacenamiento adecuados para cargas de trabajo actuales y futuras. La planificación de capacidad proactiva previene emergencias de rendimiento."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Monitorice CPU, memoria, I/O y latencia de red continuamente con baselines establecidas",
+                "Configure memory pools adecuadamente (buffer pool, plan cache, connection pools)",
+                "Implemente resource governor para prevenir que consultas pesadas monopolicen recursos",
+                "Utilice storage tiering para balancear rendimiento y costo (SSD para hot data, HDD para archive)",
+                "Establezca alertas proactivas para métricas críticas antes de que alcancen niveles críticos"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Monitoreo y Diagnóstico Continuo"
+            },
+            {
+              "type": "paragraph",
+              "text": "La optimización es un proceso continuo, no un proyecto puntual. Sistemas de monitoreo robustos identifican degradaciones de rendimiento antes de que impacten a usuarios finales."
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Identificar consultas más costosas (SQL Server)\nSELECT TOP 10\n    qs.execution_count,\n    qs.total_elapsed_time / 1000000.0 AS total_elapsed_sec,\n    qs.total_worker_time / 1000000.0 AS total_cpu_sec,\n    qs.total_logical_reads,\n    SUBSTRING(qt.text, (qs.statement_start_offset/2)+1,\n        ((CASE qs.statement_end_offset\n            WHEN -1 THEN DATALENGTH(qt.text)\n            ELSE qs.statement_end_offset\n        END - qs.statement_start_offset)/2) + 1) AS query_text\nFROM sys.dm_exec_query_stats qs\nCROSS APPLY sys.dm_exec_sql_text(qs.sql_handle) qt\nORDER BY qs.total_elapsed_time DESC;"
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "Establezca un proceso de performance baseline trimestral. Compare métricas actuales contra baselines para identificar degradaciones graduales que pueden pasar desapercibidas en monitoreo diario."
+            },
+            {
+              "type": "quote",
+              "text": "La optimización de base de datos no es sobre hacer todo más rápido — es sobre hacer las cosas correctas rápidas y dejar que las cosas incorrectas fallen rápidamente.",
+              "author": "Equipa de demonstração"
+            },
+            {
+              "type": "heading",
+              "text": "ROI y Métricas de Éxito"
+            },
+            {
+              "type": "paragraph",
+              "text": "El éxito de iniciativas de optimización debe medirse en términos de impacto de negocio. Establezca KPIs claros antes de iniciar trabajo de optimización y mida resultados de forma consistente."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Mida query response time en el percentil 95, no solo promedio",
+                "Calcule el costo de CPU/hora y compare antes vs. después de la optimización",
+                "Monitorice métricas de experiencia del usuario (page load time, transaction completion rate)",
+                "Documente todos los cambios y sus impactos para crear una base de conocimientos interna"
+              ]
+            }
+          ]
+        }
+      },
+      "migration": {
+        "title": "Estrategias de Migración para la Nube",
+        "excerpt": "Una guía completa para planificar y ejecutar migraciones de base de datos a la nube, minimizando riesgos y garantizando la integridad de los datos.",
+        "content": {
+          "sections": [
+            {
+              "type": "heading",
+              "text": "El Imperativo de la Nube: Por Qué Migrar Ahora"
+            },
+            {
+              "type": "paragraph",
+              "text": "La migración a la nube dejó de ser una cuestión de 'si' para 'cuándo' y 'cómo'. Organizaciones que migraron con éxito reportan reducciones de costo del 30-50%, mejoras dramáticas en escalabilidad, y capacidad de innovar más rápidamente. Sin embargo, migraciones mal ejecutadas pueden resultar en downtime prolongado, pérdida de datos y costos inesperados."
+            },
+            {
+              "type": "stats",
+              "items": [
+                {
+                  "value": "73%",
+                  "label": "Empresas con workloads en la nube"
+                },
+                {
+                  "value": "40%",
+                  "label": "Reducción media de TCO"
+                },
+                {
+                  "value": "5x",
+                  "label": "Velocidad de deployment"
+                }
+              ]
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "Migración a la nube no es lift-and-shift — es una oportunidad de modernización",
+                "La planificación adecuada puede reducir riesgos en 80% comparado con enfoques ad-hoc",
+                "Las funcionalidades cloud-native (auto-scaling, managed backups) deben aprovecharse post-migración",
+                "La estrategia correcta depende de características específicas del workload — no existe one-size-fits-all",
+                "Pruebas rigurosas en ambiente de staging son no negociables"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Las 6 Estrategias de Migración (6 Rs)"
+            },
+            {
+              "type": "paragraph",
+              "text": "El framework de las '6 Rs' — desarrollado por AWS y adoptado por la industria — ofrece una taxonomía clara para decisiones de migración. Cada R representa un enfoque diferente con trade-offs específicos de costo, complejidad y beneficios."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "Rehost (Lift-and-Shift)",
+                  "option1": "Rápido, bajo riesgo",
+                  "option2": "Beneficios nube limitados"
+                },
+                {
+                  "feature": "Replatform",
+                  "option1": "Optimizaciones nube básicas",
+                  "option2": "Alguna re-arquitectura"
+                },
+                {
+                  "feature": "Repurchase",
+                  "option1": "SaaS moderno",
+                  "option2": "Migración de datos compleja"
+                },
+                {
+                  "feature": "Refactor",
+                  "option1": "Máximos beneficios nube",
+                  "option2": "Mayor costo y tiempo"
+                },
+                {
+                  "feature": "Retire",
+                  "option1": "Reducción de costos inmediata",
+                  "option2": "Requiere análisis de dependencias"
+                },
+                {
+                  "feature": "Retain",
+                  "option1": "Mantiene on-premises",
+                  "option2": "Para sistemas legacy críticos"
+                }
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "La mayoría de las organizaciones utiliza una combinación de las 6 Rs para diferentes workloads. Analice cada base de datos individualmente con base en criticidad, complejidad y objetivos de negocio."
+            },
+            {
+              "type": "heading",
+              "text": "Planificación de la Migración: El Framework en 5 Fases"
+            },
+            {
+              "type": "paragraph",
+              "text": "Una migración exitosa sigue un proceso estructurado que minimiza riesgos mientras maximiza eficiencia. Nuestro framework probado en cientos de migraciones divide el proceso en cinco fases distintas."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Fase 1 - Descubrimiento: Inventario completo de bases de datos, dependencias, patrones de utilización y requisitos de compliance",
+                "Fase 2 - Planificación: Selección de estrategia por workload, definición de arquitectura target, estimación de costos",
+                "Fase 3 - Prueba de Concepto: Migración de workload no crítico para validar enfoque e identificar desafíos",
+                "Fase 4 - Migración: Ejecución de migración en waves con testing riguroso y rollback plans",
+                "Fase 5 - Optimización: Ajuste post-migración para aprovechar features cloud-native y reducir costos"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Garantizar Integridad de Datos Durante la Migración"
+            },
+            {
+              "type": "paragraph",
+              "text": "La integridad de los datos es absolutamente crítica. Una migración con 99.9% de precisión aún significa miles de registros corrompidos en una base de datos de millones de líneas. Implementamos múltiples capas de validación."
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Script de validación post-migración\n-- 1. Comparar row counts\nSELECT \n    'Source' AS location,\n    COUNT(*) AS row_count \nFROM source_db.customers\nUNION ALL\nSELECT \n    'Target',\n    COUNT(*) \nFROM target_db.customers;\n\n-- 2. Validar checksums de datos críticos\nSELECT \n    customer_id,\n    CHECKSUM(name, email, phone, address) AS data_checksum\nFROM source_db.customers\nEXCEPT\nSELECT \n    customer_id,\n    CHECKSUM(name, email, phone, address)\nFROM target_db.customers;\n\n-- 3. Validar referential integrity\nSELECT o.order_id\nFROM orders o\nLEFT JOIN customers c ON o.customer_id = c.customer_id\nWHERE c.customer_id IS NULL;"
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "No confíe solo en herramientas de migración para validación. Implemente validaciones custom basadas en su modelo de datos específico y reglas de negocio."
+            },
+            {
+              "type": "heading",
+              "text": "Estrategias de Migración con Zero/Near-Zero Downtime"
+            },
+            {
+              "type": "paragraph",
+              "text": "Para sistemas críticos de negocio, downtime prolongado no es aceptable. Técnicas modernas permiten migraciones con ventanas de interrupción mínimas — frecuentemente menos de 1 minuto."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Database Replication: Configure replicación continua source→target, después haga cutover rápido",
+                "Change Data Capture (CDC): Capture solo cambios incrementales para sincronización eficiente",
+                "Blue-Green Deployment: Mantenga ambos ambientes en paralelo, switch instantáneo vía DNS/load balancer",
+                "Canary Migration: Migre subset de usuarios primero, expanda gradualmente tras validación",
+                "Parallel Run: Ejecute ambos sistemas en paralelo durante período de validación antes de apagar source"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Optimización Post-Migración: Aprovechar Features Cloud-Native"
+            },
+            {
+              "type": "paragraph",
+              "text": "La migración es solo el inicio. El verdadero valor viene de aprovechar capabilities cloud que no existían on-premises. Organizaciones que invierten en optimización post-migración típicamente ven reducciones adicionales del 30-40% en costos."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Implemente auto-scaling para lidiar con variaciones de carga automáticamente",
+                "Utilice managed backup services con retention policies automatizadas",
+                "Configure multi-region replication para disaster recovery y mejor latencia global",
+                "Aproveche serverless options (Aurora Serverless, CosmosDB serverless) para workloads variables",
+                "Implemente cost optimization: reserved instances, spot instances, storage tiering",
+                "Configure monitoring cloud-native (CloudWatch, Azure Monitor) con alertas inteligentes"
+              ]
+            },
+            {
+              "type": "quote",
+              "text": "La nube no es solo un datacenter de otra persona — es una plataforma de innovación que permite capacidades imposibles con infraestructura tradicional.",
+              "author": "Equipa de demonstração"
+            },
+            {
+              "type": "heading",
+              "text": "Gestión de Costos Cloud: Evitar Bill Shock"
+            },
+            {
+              "type": "paragraph",
+              "text": "Uno de los mayores desafíos post-migración es gestión de costos. Cloud ofrece elasticidad infinita — pero esto puede resultar en costos inesperados si no se gestiona adecuadamente. Implementamos prácticas de FinOps desde el día uno."
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "Configure budget alerts y utilice tools como AWS Cost Explorer o Azure Cost Management. Revise costos semanalmente en las primeras 8 semanas post-migración para identificar anomalías rápidamente."
+            }
+          ]
+        }
+      },
+      "security": {
+        "title": "Tendencias de Seguridad de Base de Datos en 2024",
+        "excerpt": "Manténgase adelante de las amenazas emergentes con las últimas tendencias en seguridad de base de datos, incluyendo zero trust, encriptación avanzada y compliance automation.",
+        "content": {
+          "sections": [
+            {
+              "type": "heading",
+              "text": "El Escenario de Amenazas en Constante Evolución"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las amenazas a la seguridad de bases de datos continúan evolucionando a un ritmo alarmante. En 2023, el costo medio de una violación de datos alcanzó €4.24 millones — un aumento del 15% frente al año anterior. Ransomware targeting databases creció 87%, con atacantes cada vez más sofisticados explotando vulnerabilidades zero-day y configuraciones inadecuadas."
+            },
+            {
+              "type": "stats",
+              "items": [
+                {
+                  "value": "€4.24M",
+                  "label": "Costo medio de data breach"
+                },
+                {
+                  "value": "287 días",
+                  "label": "Tiempo medio para detectar breach"
+                },
+                {
+                  "value": "45%",
+                  "label": "Breaches vía cloud misconfiguration"
+                }
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "83% de las organizaciones sufrieron más de una violación de datos en los últimos 12 meses. La cuestión no es 'si' sino 'cuándo' — la preparación es esencial."
+            },
+            {
+              "type": "heading",
+              "text": "Encriptación Multi-Capa: La Nueva Baseline"
+            },
+            {
+              "type": "paragraph",
+              "text": "La encriptación dejó de ser opcional — es mandatoria para compliance y protección básica de datos. La seguridad moderna requiere encriptación en todas las capas: datos en reposo (at-rest), en tránsito (in-transit) y cada vez más, en uso (in-use) a través de tecnologías como Always Encrypted y confidential computing."
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "Encriptación at-rest protege contra theft de hardware pero es inútil si la aplicación se ve comprometida",
+                "TLS 1.3 debe ser el mínimo para datos in-transit — versiones antiguas tienen vulnerabilidades conocidas",
+                "Always Encrypted/Confidential Computing permiten procesar datos sin descifrar en el servidor",
+                "Key management es crítico — utilice HSMs o cloud KMS, nunca hardcode keys",
+                "Implemente key rotation regular — idealmente automatizado y sin downtime"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Configurar Transparent Data Encryption (SQL Server)\n-- 1. Crear master key\nUSE master;\nCREATE MASTER KEY ENCRYPTION BY PASSWORD = 'Complex_P@ssw0rd_2024!';\n\n-- 2. Crear certificate\nCREATE CERTIFICATE TDE_Cert\nWITH SUBJECT = 'Database_Encryption';\n\n-- 3. Crear database encryption key\nUSE YourDatabase;\nCREATE DATABASE ENCRYPTION KEY\nWITH ALGORITHM = AES_256\nENCRYPTION BY SERVER CERTIFICATE TDE_Cert;\n\n-- 4. Activar encriptación\nALTER DATABASE YourDatabase\nSET ENCRYPTION ON;\n\n-- 5. Verificar status\nSELECT \n    db_name(database_id) AS database_name,\n    encryption_state,\n    percent_complete,\n    encryption_state_desc\nFROM sys.dm_database_encryption_keys;"
+            },
+            {
+              "type": "heading",
+              "text": "Zero Trust Architecture para Bases de Datos"
+            },
+            {
+              "type": "paragraph",
+              "text": "El modelo tradicional de 'castle-and-moat' — confía en todo dentro de la red, desconfía de todo fuera — está obsoleto. Zero Trust asume que breaches son inevitables e implementa verificación continua para cada acceso, independientemente del origen."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Implemente autenticación multi-factor (MFA) para todos los accesos privilegiados — sin excepciones",
+                "Utilice Just-In-Time (JIT) access: privilegios elevados solo cuando necesario, auto-revocación",
+                "Implemente micro-segmentation: aísle bases de datos en network segments dedicados",
+                "Monitorice y audite todos los accesos: who, what, when, where — logs inmutables y analizados por SIEM",
+                "Principio del menor privilegio: usuarios y aplicaciones tienen solo permisos estrictamente necesarios",
+                "Regular access reviews: valide y revoque accesos no utilizados trimestralmente"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Compliance Automation: GDPR, HIPAA, PCI DSS"
+            },
+            {
+              "type": "paragraph",
+              "text": "Requisitos regulatorios como GDPR (Europa), HIPAA (salud USA), PCI DSS (pagos) exigen controles específicos de protección de datos. Compliance manual es error-prone y no escalable — automation es esencial."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "Data Discovery",
+                  "option1": "Identificar datos sensibles",
+                  "option2": "Automated scanning + tagging"
+                },
+                {
+                  "feature": "Access Control",
+                  "option1": "Quién accede a qué",
+                  "option2": "RBAC + attribute-based policies"
+                },
+                {
+                  "feature": "Data Masking",
+                  "option1": "Proteger en non-prod",
+                  "option2": "Dynamic masking rules"
+                },
+                {
+                  "feature": "Audit Logging",
+                  "option1": "Registrar todos accesos",
+                  "option2": "Automated log collection + retention"
+                },
+                {
+                  "feature": "Breach Notification",
+                  "option1": "Reportar en 72h (GDPR)",
+                  "option2": "Automated detection + alerting"
+                }
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "GDPR se aplica a CUALQUIER organización que procesa datos de ciudadanos EU, independientemente de la ubicación de la empresa. Multas pueden alcanzar €20M o 4% del revenue global anual — lo que sea mayor."
+            },
+            {
+              "type": "heading",
+              "text": "Database Activity Monitoring (DAM) y Threat Detection"
+            },
+            {
+              "type": "paragraph",
+              "text": "DAM solutions monitorizan y analizan actividad de base de datos en tiempo real para detectar comportamientos anómalos, intentos de SQL injection, privilege escalation, y exfiltración de datos. Machine learning modernizó DAM al permitir detección de anomalías sin reglas explícitas."
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Configurar Advanced Threat Protection (Azure SQL)\n-- Detección automática de: SQL injection, anomalous access patterns, \n-- brute force attacks, unusual data exfiltration\n\n-- Vía Portal: SQL Database > Security > Advanced Threat Protection > Enable\n\n-- Vía T-SQL: verificar detecciones\nSELECT \n    event_time,\n    threat_type,\n    severity,\n    description,\n    client_ip,\n    database_principal_name,\n    statement\nFROM sys.fn_get_audit_file(\n    '#demo-contact',\n    default,\n    default\n)\nWHERE threat_type IS NOT NULL\nORDER BY event_time DESC;"
+            },
+            {
+              "type": "heading",
+              "text": "Backup Security: ¿El Eslabón Más Débil?"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ransomware moderno targeting backups está creciendo exponencialmente. Atacantes saben que si destruyen backups, organizaciones son forzadas a pagar rescates. La protección de backups es tan crítica como la protección de datos primarios."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Implemente immutable backups: no pueden ser alterados o eliminados durante retention period",
+                "Regla 3-2-1: 3 copias, 2 media types, 1 offsite — agregue 1 air-gapped para ransomware protection",
+                "Encripte backups con keys diferentes de las de producción para prevenir compromiso simultáneo",
+                "Pruebe restauraciones regularmente — backups no probados son backups que fallarán cuando se necesiten",
+                "Implemente backup access controls rigurosos — principio del menor privilegio aplica igualmente",
+                "Monitorice accesos a backups: cualquier acceso no planificado debe generar alerta inmediata"
+              ]
+            },
+            {
+              "type": "quote",
+              "text": "La seguridad perfecta no existe. El objetivo no es cero vulnerabilidades sino detección rápida, contención eficaz y recuperación resiliente.",
+              "author": "Equipa de demonstração"
+            },
+            {
+              "type": "heading",
+              "text": "El Futuro: AI-Powered Security"
+            },
+            {
+              "type": "paragraph",
+              "text": "Inteligencia artificial está transformando database security a través de detección de anomalías más precisa, respuesta automatizada a incidentes, y análisis predictiva de vulnerabilidades. Sin embargo, AI también está siendo utilizada por atacantes — creando una carrera armamentista tecnológica."
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "Invierta en security awareness training continuo. 95% de las violaciones de seguridad involucran error humano. La tecnología es solo la mitad de la solución — las personas son la otra mitad."
+            }
+          ]
+        }
+      },
+      "comparison": {
+        "title": "PostgreSQL vs MySQL: Guía Completa de Comparación",
+        "excerpt": "Un análisis técnico detallado entre PostgreSQL y MySQL, cubriendo arquitectura, rendimiento, funcionalidades avanzadas y casos de uso ideales para cada sistema.",
+        "content": {
+          "sections": [
+            {
+              "type": "heading",
+              "text": "Dos Filosofías, Dos Gigantes Open-Source"
+            },
+            {
+              "type": "paragraph",
+              "text": "PostgreSQL y MySQL dominan el mercado de bases de datos relacionales open-source, pero representan filosofías fundamentalmente diferentes. PostgreSQL, frecuentemente descrito como 'the world's most advanced open source database', prioriza cumplimiento con standards SQL, extensibilidad y capacidades avanzadas. MySQL, adquirido por Oracle en 2010, se enfoca en simplicidad, velocidad y facilidad de uso."
+            },
+            {
+              "type": "stats",
+              "items": [
+                {
+                  "value": "#1",
+                  "label": "PostgreSQL en DB-Engines Ranking"
+                },
+                {
+                  "value": "150M+",
+                  "label": "Downloads MySQL/año"
+                },
+                {
+                  "value": "40%",
+                  "label": "Sites top 10K usan MySQL"
+                }
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "info",
+              "text": "Ambos son excelentes opciones — la decisión correcta depende de sus necesidades específicas, no de cuál es 'mejor' en abstracto. Esta guía le ayuda a hacer una elección informada."
+            },
+            {
+              "type": "heading",
+              "text": "Arquitectura y Modelo de Datos"
+            },
+            {
+              "type": "paragraph",
+              "text": "Las diferencias arquitecturales entre PostgreSQL y MySQL tienen implicaciones profundas en rendimiento, funcionalidades y casos de uso ideales."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "Arquitectura Base",
+                  "option1": "PostgreSQL: Process-based",
+                  "option2": "MySQL: Thread-based"
+                },
+                {
+                  "feature": "Storage Engine",
+                  "option1": "PostgreSQL: Single (MVCC nativo)",
+                  "option2": "MySQL: Pluggable (InnoDB, MyISAM)"
+                },
+                {
+                  "feature": "ACID Compliance",
+                  "option1": "PostgreSQL: Total, todas operaciones",
+                  "option2": "MySQL: Depende de engine (InnoDB sí)"
+                },
+                {
+                  "feature": "MVCC",
+                  "option1": "PostgreSQL: Nativo, sin locks lectura",
+                  "option2": "MySQL: Vía InnoDB, más overhead"
+                },
+                {
+                  "feature": "Data Types",
+                  "option1": "PostgreSQL: Extensivo (JSON, arrays, hstore)",
+                  "option2": "MySQL: Standard SQL + JSON básico"
+                },
+                {
+                  "feature": "Extensibilidad",
+                  "option1": "PostgreSQL: Altamente extensible",
+                  "option2": "MySQL: Limitada"
+                }
+              ]
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "PostgreSQL's process model aísla mejor pero consume más memoria por conexión",
+                "MySQL's thread model es más ligero pero fallos pueden afectar todo servidor",
+                "MVCC de PostgreSQL permite lecturas sin lock — crucial para workloads concurrentes",
+                "Pluggable storage engines de MySQL ofrecen flexibilidad pero complejidad adicional",
+                "PostgreSQL soporta tipos de datos mucho más ricos nativamente"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Rendimiento: Cuándo Cada Uno Brilla"
+            },
+            {
+              "type": "paragraph",
+              "text": "Benchmarks sintéticos raramente reflejan escenarios reales. El rendimiento relativo depende drásticamente de patrones de workload, configuración y optimizaciones específicas."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "MySQL típicamente supera a PostgreSQL en: read-heavy workloads simples, consultas involucrando solo indexed lookups, aplicaciones que requieren replicación master-slave simple",
+                "PostgreSQL típicamente supera a MySQL en: consultas complejas con joins múltiples, workloads analíticas (OLAP), operaciones con concurrencia masiva, utilización de índices especializados (GiST, GIN)",
+                "Ambos rinden similarmente cuando: debidamente configurados y ajustados, workloads balanced read/write, infraestructura adecuadamente dimensionada",
+                "Regla general: MySQL para simplicidad y velocidad en escenarios straightforward, PostgreSQL para complejidad y advanced analytics"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- PostgreSQL: Utilizar advanced indexing para JSON\nCREATE TABLE products (\n    id SERIAL PRIMARY KEY,\n    data JSONB NOT NULL\n);\n\n-- GIN index para consultas dentro de JSON\nCREATE INDEX idx_product_data ON products USING GIN (data);\n\n-- Consulta eficiente en nested JSON\nSELECT id, data->'name' AS product_name\nFROM products\nWHERE data @> '{\"category\": \"electronics\", \"stock\": {\"available\": true}}';\n\n-- MySQL equivalente (menos eficiente)\nCREATE TABLE products (\n    id INT AUTO_INCREMENT PRIMARY KEY,\n    data JSON NOT NULL\n);\n\n-- MySQL no soporta indexes en JSON paths tan eficientemente\nSELECT id, JSON_EXTRACT(data, '$.name') AS product_name\nFROM products\nWHERE JSON_EXTRACT(data, '$.category') = 'electronics'\n  AND JSON_EXTRACT(data, '$.stock.available') = true;"
+            },
+            {
+              "type": "heading",
+              "text": "Funcionalidades Avanzadas: El Ecosistema PostgreSQL"
+            },
+            {
+              "type": "paragraph",
+              "text": "PostgreSQL ofrece un conjunto incomparable de funcionalidades avanzadas que lo hacen adecuado para escenarios complejos donde MySQL típicamente requiere workarounds o herramientas externas."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full-text search nativo (tsvector, tsquery) vs. necesidad de Elasticsearch externo en MySQL",
+                "Window functions completas desde 2009 vs. MySQL que agregó solo en 2018",
+                "Common Table Expressions (CTEs) recursivas para consultas jerárquicas complejas",
+                "Transactional DDL: ALTER TABLE, CREATE INDEX dentro de transacciones con rollback",
+                "Extensions ecosystem: PostGIS (spatial), TimescaleDB (time-series), pgvector (AI/ML)",
+                "Arrays nativos, composite types, range types — modelado de datos más rico",
+                "Listen/Notify para pub/sub patterns sin message broker externo",
+                "Foreign Data Wrappers para federación con otras databases, APIs, archivos"
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "Si su caso de uso requiere análisis geoespacial, considere PostgreSQL + PostGIS. Es la solución open-source líder mundial y supera fácilmente a MySQL spatial features."
+            },
+            {
+              "type": "heading",
+              "text": "Replicación y Alta Disponibilidad"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ambos ofrecen soluciones robustas de replicación, pero con enfoques y trade-offs diferentes."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "Replicación Nativa",
+                  "option1": "PostgreSQL: Streaming (async/sync)",
+                  "option2": "MySQL: Binlog (statement/row/mixed)"
+                },
+                {
+                  "feature": "Setup Complexity",
+                  "option1": "PostgreSQL: Moderado",
+                  "option2": "MySQL: Simple"
+                },
+                {
+                  "feature": "Logical Replication",
+                  "option1": "PostgreSQL: Sí (v10+)",
+                  "option2": "MySQL: Sí"
+                },
+                {
+                  "feature": "Multi-Master",
+                  "option1": "PostgreSQL: Vía extensions (BDR)",
+                  "option2": "MySQL: Vía Group Replication"
+                },
+                {
+                  "feature": "Failover Automático",
+                  "option1": "PostgreSQL: Requiere tool (Patroni)",
+                  "option2": "MySQL: Vía Group Replication"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Ecosistema, Herramientas y Comunidad"
+            },
+            {
+              "type": "paragraph",
+              "text": "El éxito a largo plazo con una base de datos depende no solo de la tecnología sino del ecosistema alrededor — herramientas, hosting providers, talento disponible, y community support."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "MySQL tiene mayor market share en web hosting compartido — más hosting providers ofrecen",
+                "PostgreSQL domina en empresas tech modernas y aplicaciones cloud-native",
+                "MySQL tiene integración más simple con PHP/WordPress ecosystem",
+                "PostgreSQL tiene ecosystem de extensions mucho más rico y activo",
+                "Ambos tienen excellent managed cloud offerings: RDS, Azure Database, Google Cloud SQL",
+                "Talento: MySQL developers más abundantes pero PostgreSQL specialists comandan salarios premium"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Cuándo Elegir PostgreSQL"
+            },
+            {
+              "type": "paragraph",
+              "text": "PostgreSQL es la elección ideal cuando su proyecto requiere:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Consultas complejas con múltiples joins y subqueries — query planner superior",
+                "Workloads analíticas o data warehousing — mejor para OLAP patterns",
+                "Funcionalidades avanzadas: full-text search, spatial data, time-series, JSON avanzado",
+                "Cumplimiento riguroso con SQL standards — portabilidad entre databases",
+                "Transactional DDL — cambios de schema probables y revertibles",
+                "Aplicaciones que benefician de extensions: PostGIS, TimescaleDB, pgvector",
+                "Desarrollo moderno con ORMs: excelente integración con Django, Rails, Node.js"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Cuándo Elegir MySQL"
+            },
+            {
+              "type": "paragraph",
+              "text": "MySQL es la elección ideal cuando su proyecto requiere:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Aplicaciones web straightforward con consultas simples — setup más rápido",
+                "Workloads read-heavy con caching — rendimiento excelente en este escenario",
+                "Integración con WordPress, Magento, u otro software que requiere MySQL",
+                "Hosting compartido o ambientes con recursos limitados — footprint más ligero",
+                "Equipo con experiencia MySQL existente — menor curva de aprendizaje",
+                "Replicación master-slave simple con herramientas native — menos dependencies",
+                "Compatibilidad con legacy systems que ya dependen de MySQL ecosystem"
+              ]
+            },
+            {
+              "type": "quote",
+              "text": "La mejor base de datos es aquella que resuelve sus problemas específicos con el mínimo de complejidad. No existe elección incorrecta entre PostgreSQL y MySQL — solo elecciones más o menos adecuadas a su contexto.",
+              "author": "Equipo Nexo Data"
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "¿Considerando migrar de MySQL a PostgreSQL o viceversa? Contáctenos para una evaluación gratuita. Analizamos su workload específico y proporcionamos recomendaciones personalizadas basadas en datos."
+            },
+            {
+              "type": "heading",
+              "text": "Costos: Open-Source No Significa Gratuito"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ambos son open-source y gratuitos para utilización, pero los costos reales incluyen hosting, storage, backup, monitoreo, y principalmente — talento especializado. PostgreSQL specialists típicamente comandan salarios 15-25% superiores a MySQL developers, pero pueden entregar funcionalidades complejas más rápidamente debido a las advanced features de la plataforma."
+            }
+          ]
+        }
+      },
+      "backup": {
+        "title": "Estrategias de Backup y Recuperación de Desastres",
+        "excerpt": "Aprenda a implementar estrategias robustas de backup y disaster recovery que garanticen la continuidad del negocio y minimicen pérdida de datos.",
+        "content": {
+          "sections": [
+            {
+              "type": "heading",
+              "text": "RPO y RTO: Las Métricas que Definen Todo"
+            },
+            {
+              "type": "paragraph",
+              "text": "Toda estrategia de backup y disaster recovery comienza con dos métricas fundamentales: Recovery Point Objective (RPO) y Recovery Time Objective (RTO). RPO define cuántos datos puede perder (cuánto tiempo atrás recuperar), RTO define cuánto tiempo puede estar offline. Estas métricas determinan la arquitectura técnica y el presupuesto necesario."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "RPO = 24 horas",
+                  "option1": "Pérdida máxima: 1 día de datos",
+                  "option2": "Solución: Daily backups"
+                },
+                {
+                  "feature": "RPO = 1 hora",
+                  "option1": "Pérdida máxima: 1 hora de datos",
+                  "option2": "Solución: Hourly backups + transaction logs"
+                },
+                {
+                  "feature": "RPO ≈ 0",
+                  "option1": "Pérdida casi cero",
+                  "option2": "Solución: Synchronous replication"
+                },
+                {
+                  "feature": "RTO = 4 horas",
+                  "option1": "Downtime máximo: 4 horas",
+                  "option2": "Solución: Warm standby"
+                },
+                {
+                  "feature": "RTO = 1 hora",
+                  "option1": "Downtime máximo: 1 hora",
+                  "option2": "Solución: Hot standby + automated failover"
+                },
+                {
+                  "feature": "RTO ≈ 0",
+                  "option1": "Downtime mínimo",
+                  "option2": "Solución: Active-active multi-region"
+                }
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "RPO/RTO no son elecciones técnicas — son decisiones de negocio basadas en costo vs. riesgo. Un RTO de 5 minutos puede costar 50x más que RTO de 4 horas. Cuantifique el costo de downtime para tomar decisiones informadas."
+            },
+            {
+              "type": "heading",
+              "text": "La Regla 3-2-1-1-0 de Backup Moderno"
+            },
+            {
+              "type": "paragraph",
+              "text": "La regla tradicional 3-2-1 evolucionó a 3-2-1-1-0 para lidiar con amenazas modernas como ransomware. Este framework garantiza resiliencia incluso en escenarios de ataque sofisticados."
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "3 copias de los datos: producción + 2 backups independientes",
+                "2 tipos de media diferentes: disco + tape/cloud para protección contra falla de media type",
+                "1 copia offsite: protege contra desastres físicos (incendio, inundación, robo)",
+                "1 copia air-gapped o immutable: protege contra ransomware e insider threats",
+                "0 errores tras verificación: pruebas regulares garantizan que backups son recuperables"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Tipos de Backup y Cuándo Utilizar Cada Uno"
+            },
+            {
+              "type": "paragraph",
+              "text": "Existen tres tipos fundamentales de backup, cada uno con trade-offs específicos de espacio, tiempo y complejidad de recuperación."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Full Backup: Copia completa de todos los datos. Lento y storage-intensive pero recovery más simple y rápido. Utilice semanalmente como baseline.",
+                "Differential Backup: Copia todo lo que cambió desde último full backup. Crece a lo largo de la semana pero recovery requiere solo last full + last differential.",
+                "Incremental Backup: Copia solo lo que cambió desde último backup (cualquier tipo). Más rápido y storage-efficient pero recovery requiere last full + TODOS incrementals en secuencia.",
+                "Transaction Log Backup: Captura log de transacciones para point-in-time recovery. Esencial para RPO < 24h. Debe ser automatizado y frecuente (15-60 min).",
+                "Snapshot Backup: Storage-level copy-on-write snapshots. Instantáneo y space-efficient inicialmente pero no sustituye backups tradicionales offsite."
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Estrategia típica de backup SQL Server\n-- Full backup semanal (Domingo 02:00)\nBACKUP DATABASE [ProductionDB]\nTO DISK = 'E:\\Backups\\ProductionDB_Full.bak'\nWITH \n    INIT,\n    COMPRESSION,\n    CHECKSUM,\n    STATS = 10;\n\n-- Differential backup diario (Lunes-Sábado 02:00)\nBACKUP DATABASE [ProductionDB]\nTO DISK = 'E:\\Backups\\ProductionDB_Diff.bak'\nWITH \n    DIFFERENTIAL,\n    INIT,\n    COMPRESSION,\n    CHECKSUM;\n\n-- Transaction log backup cada 15 minutos\nBACKUP LOG [ProductionDB]\nTO DISK = 'E:\\Backups\\ProductionDB_Log.trn'\nWITH \n    INIT,\n    COMPRESSION,\n    CHECKSUM;\n\n-- Verificar integridad del backup\nRESTORE VERIFYONLY \nFROM DISK = 'E:\\Backups\\ProductionDB_Full.bak'\nWITH CHECKSUM;"
+            },
+            {
+              "type": "heading",
+              "text": "Backup Automation y Orquestación"
+            },
+            {
+              "type": "paragraph",
+              "text": "Backups manuales fallan inevitablemente — alguien olvida, está enfermo, o de vacaciones. Automation no es opcional, es mandatorio. Modern backup orchestration combina scheduling, monitoring, alerting, y testing automatizados."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Schedule basado en RPO/RTO: full/differential/incremental/log backups automatizados",
+                "Retention policies automatizadas: daily (30 days), weekly (3 months), monthly (7 years) conforme compliance",
+                "Automatic verification: cada backup debe ser automatically verified tras conclusión",
+                "Alerting inteligente: fallos de backup generan alerts inmediatos vía múltiples canales (email, SMS, Slack)",
+                "Bandwidth throttling: backups no deben impactar workloads de producción durante business hours",
+                "Backup catalog/metadata management: saber qué tiene, dónde está, cuándo expira"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Disaster Recovery Planning y Testing"
+            },
+            {
+              "type": "paragraph",
+              "text": "Un backup no probado es un backup que fallará cuando más lo necesite. DR planning requiere documentación detallada, testing regular, y continuous improvement basado en lessons learned."
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "57% de las organizaciones que prueban backups descubren que no consiguen recuperar datos críticos. No sea una estadística — pruebe trimestralmente como mínimo."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Documente Recovery Procedures: step-by-step runbooks para diferentes disaster scenarios",
+                "Defina Recovery Team: quién hace qué, orden de operaciones, escalation paths",
+                "Test Quarterly: recovery drills completos de production-like data para ambiente aislado",
+                "Measure y Report: ¿cuánto tiempo tomó recovery? ¿Alcanzamos RTO/RPO? ¿Qué falló?",
+                "Update Runbooks: incorpore lessons learned de cada prueba en procedures actualizadas",
+                "Automate Recovery: cuanto más automatizado, menos error humano bajo presión",
+                "Compliance Evidence: mantenga logs de recovery tests para auditorías y compliance"
+              ]
+            },
+            {
+              "type": "heading",
+              "text": "Cloud Backup Strategies"
+            },
+            {
+              "type": "paragraph",
+              "text": "Cloud transformó backup economics — storage infinitamente escalable, pay-per-use, geo-replication nativa. Pero también introdujo nuevos desafíos: egress costs, latencia de recovery, y dependencia de conectividad."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "Hot Storage (S3 Standard)",
+                  "option1": "Recovery: Inmediato",
+                  "option2": "Costo: Alto (€0.023/GB/mes)"
+                },
+                {
+                  "feature": "Cool Storage (S3 IA)",
+                  "option1": "Recovery: Minutos",
+                  "option2": "Costo: Medio (€0.0125/GB/mes)"
+                },
+                {
+                  "feature": "Cold Storage (Glacier)",
+                  "option1": "Recovery: 1-12 horas",
+                  "option2": "Costo: Bajo (€0.004/GB/mes)"
+                },
+                {
+                  "feature": "Archive (Deep Archive)",
+                  "option1": "Recovery: 12-48 horas",
+                  "option2": "Costo: Mínimo (€0.00099/GB/mes)"
+                }
+              ]
+            },
+            {
+              "type": "code",
+              "language": "bash",
+              "code": "# Backup automatizado para S3 con lifecycle policies\n# 1. Backup local\npg_dump -U postgres -d production_db | \\\n  gzip > /backups/prod_$(date +%Y%m%d_%H%M%S).sql.gz\n\n# 2. Upload para S3 con encryption\naws s3 cp /backups/prod_*.sql.gz \\\n  s3://my-db-backups/postgres/ \\\n  --storage-class STANDARD_IA \\\n  --server-side-encryption AES256\n\n# 3. S3 Lifecycle Policy (vía console o IaC)\n# Day 0-30: S3 Standard-IA\n# Day 31-90: S3 Glacier\n# Day 91-2555 (7 años): S3 Deep Archive\n# Day 2556+: Delete\n\n# 4. Verificación automática (cron job)\n#!/bin/bash\nLATEST=$(aws s3 ls s3://my-db-backups/postgres/ | \\\n  sort | tail -n 1 | awk '{print $4}')\nif [ -z \"$LATEST\" ]; then\n  echo \"ALERT: No recent backup found!\" | \\\n    mail -s \"Backup Failure\" contacto@example.invalid\nfi"
+            },
+            {
+              "type": "heading",
+              "text": "Ransomware-Proof Backups"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ransomware moderno targeting backups creció 300% en los últimos 2 años. Atacantes saben que si destruyen backups, organizaciones son forzadas a pagar. Backup resilience contra ransomware requiere architectural changes."
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "Immutable backups: no pueden ser modificados o borrados durante retention period — ni por admins",
+                "Air-gapped backups: físicamente o lógicamente aislados de la red de producción",
+                "Separate credentials: backups no deben usar mismas credentials que producción",
+                "Multi-factor authentication: MFA obligatorio para cualquier acceso a backup systems",
+                "Backup network segmentation: backups en VLAN/subnet dedicado con firewall rules restrictivos",
+                "Monitoring backup access: cualquier acceso no scheduled genera alerta inmediata"
+              ]
+            },
+            {
+              "type": "quote",
+              "text": "El mejor momento para implementar una estrategia de backup robusta era hace 10 años. El segundo mejor momento es ahora.",
+              "author": "Proverbio DBA"
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "¿Quiere evaluar la robustez de su estrategia de backup actual? Ofrecemos auditorías gratuitas de backup & DR. Contáctenos para agendar un assessment de 90 minutos sin compromiso."
+            }
+          ]
+        }
+      },
+      "oracle": {
+        "title": "Ajuste de Rendimiento de Oracle Database",
+        "excerpt": "Domine el ajuste de rendimiento de Oracle con técnicas avanzadas de configuración del optimizador, gestión de memoria y análisis de execution plans.",
+        "content": {
+          "sections": [
+            {
+              "type": "heading",
+              "text": "Oracle Performance Ajuste: Arte y Ciencia"
+            },
+            {
+              "type": "paragraph",
+              "text": "Oracle Database es reconocido como uno de los RDBMS más potentes y complejos del mercado. Esta potencia viene con complejidad — Oracle ofrece miles de parámetros configurables y múltiples enfoques para resolver el mismo problema. Ajuste eficaz requiere comprensión profunda de arquitectura interna, statistics, y el comportamiento del Cost-Based Optimizer (CBO)."
+            },
+            {
+              "type": "stats",
+              "items": [
+                {
+                  "value": "3000+",
+                  "label": "Parámetros de configuración Oracle"
+                },
+                {
+                  "value": "80%",
+                  "label": "Performance gains típicos con ajuste"
+                },
+                {
+                  "value": "€500K+",
+                  "label": "Costo evitado vs. hardware upgrade"
+                }
+              ]
+            },
+            {
+              "type": "alert",
+              "alertType": "info",
+              "text": "Oracle performance ajuste no es sobre memorizar parámetros — es sobre comprender la arquitectura fundamental y aplicar metodología científica: measure, hypothesize, test, validate."
+            },
+            {
+              "type": "heading",
+              "text": "El Cost-Based Optimizer (CBO): El Cerebro de Oracle"
+            },
+            {
+              "type": "paragraph",
+              "text": "El CBO es responsable por determinar el execution plan más eficiente para cada consulta. Funciona a través de statistics sobre datos y estructuras, calculando el 'costo' estimado de diferentes plans. Comprender cómo el CBO toma decisiones es fundamental para ajuste eficaz."
+            },
+            {
+              "type": "keyTakeaways",
+              "items": [
+                "Statistics actualizadas son críticas — CBO toma decisiones basado en statistics, no en datos reales",
+                "Histograms proporcionan distribución de valores para columnas con data skew significativo",
+                "System statistics capturan I/O y CPU capabilities del hardware para custo calculations",
+                "Dynamic sampling permite al CBO recolectar runtime statistics cuando necesario",
+                "SQL Plan Management (SPM) previene plan regressions al hacer upgrades o cambios"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Recolectar statistics integrales\nBEGIN\n  DBMS_STATS.GATHER_SCHEMA_STATS(\n    ownname          => 'SALES_SCHEMA',\n    estimate_percent => DBMS_STATS.AUTO_SAMPLE_SIZE,\n    method_opt       => 'FOR ALL COLUMNS SIZE AUTO',\n    degree           => 4,\n    cascade          => TRUE,\n    no_invalidate    => FALSE\n  );\nEND;\n/\n\n-- Verificar staleness de statistics\nSELECT \n  table_name,\n  num_rows,\n  last_analyzed,\n  stale_stats\nFROM \n  user_tab_statistics\nWHERE \n  stale_stats = 'YES'\nORDER BY \n  num_rows DESC;\n\n-- Crear histogram para columna con skew\nBEGIN\n  DBMS_STATS.GATHER_TABLE_STATS(\n    ownname        => 'SALES',\n    tabname        => 'ORDERS',\n    method_opt     => 'FOR COLUMNS SIZE 254 status',\n    cascade        => TRUE\n  );\nEND;\n/"
+            },
+            {
+              "type": "heading",
+              "text": "Gestión de Memoria: SGA y PGA Optimization"
+            },
+            {
+              "type": "paragraph",
+              "text": "Oracle utiliza dos memory pools principales: System Global Area (SGA) compartida por todos los procesos, y Program Global Area (PGA) privada para cada session. Dimensionamiento adecuado es crucial — muy poca memoria fuerza excessive I/O, demasiada desperdicia recursos."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "Shared Pool",
+                  "option1": "Library cache, data dictionary",
+                  "option2": "~10-15% SGA típico"
+                },
+                {
+                  "feature": "Database Buffer Cache",
+                  "option1": "Cached data blocks",
+                  "option2": "~60-75% SGA típico"
+                },
+                {
+                  "feature": "Redo Log Buffer",
+                  "option1": "Redo antes de flush",
+                  "option2": "Generalmente default suficiente"
+                },
+                {
+                  "feature": "Large Pool",
+                  "option1": "RMAN, shared servers",
+                  "option2": "~5-10% SGA si usado"
+                },
+                {
+                  "feature": "PGA",
+                  "option1": "Sorts, hash joins, bitmap ops",
+                  "option2": "~20-30% total RAM"
+                }
+              ]
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "Utilice Automatic Memory Management (AMM) o Automatic Shared Memory Management (ASMM) — manual ajuste raramente supera automatic",
+                "Monitorice PGA_AGGREGATE_TARGET hit ratio — <95% indica PGA insuficiente causando disk sorts",
+                "Buffer cache hit ratio >95% es bueno pero no suficiente — analice wait events también",
+                "Shared pool sizing crítico para OLTP — library cache misses causan hard parses caros",
+                "Consider HugePages (Linux) para SGA grande — reduce overhead de page table management"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Configurar Automatic Memory Management (11g+)\nALTER SYSTEM SET memory_target = 16G SCOPE=SPFILE;\nALTER SYSTEM SET memory_max_target = 24G SCOPE=SPFILE;\n-- Restart necesario\n\n-- Monitorizar Buffer Cache hit ratio\nSELECT \n  name,\n  physical_reads,\n  db_block_gets,\n  consistent_gets,\n  1 - (physical_reads / (db_block_gets + consistent_gets)) AS hit_ratio\nFROM \n  v$buffer_pool_statistics;\n\n-- Identificar consultas con excessive PGA usage\nSELECT \n  sql_id,\n  sql_text,\n  executions,\n  disk_reads,\n  buffer_gets,\n  disk_reads / executions AS reads_per_exec\nFROM \n  v$sql\nWHERE \n  disk_reads / executions > 10000\nORDER BY \n  disk_reads DESC\nFETCH FIRST 20 ROWS ONLY;"
+            },
+            {
+              "type": "heading",
+              "text": "Execution Plan Analysis con DBMS_XPLAN"
+            },
+            {
+              "type": "paragraph",
+              "text": "Comprender execution plans es la skill más valiosa para Oracle ajuste. DBMS_XPLAN proporciona insights detallados sobre cómo Oracle ejecuta consultas — operations, order, row estimates vs. actuals, y wait times."
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Generar execution plan con runtime statistics\nEXPLAIN PLAN FOR\nSELECT /*+ GATHER_PLAN_STATISTICS */ \n  c.customer_name,\n  SUM(o.order_total) AS total_spent\nFROM \n  customers c\n  JOIN orders o ON c.customer_id = o.customer_id\nWHERE \n  o.order_date >= DATE '2024-01-01'\nGROUP BY \n  c.customer_name\nHAVING \n  SUM(o.order_total) > 10000;\n\n-- Display con costo y cardinality estimates\nSELECT * FROM TABLE(DBMS_XPLAN.DISPLAY(\n  format => 'TYPICAL +COST +BYTES'\n));\n\n-- Tras ejecución: actuals vs. estimates\nSELECT * FROM TABLE(DBMS_XPLAN.DISPLAY_CURSOR(\n  format => 'ALLSTATS LAST'\n));\n\n-- Real-Time SQL Monitoring (Enterprise Edition)\nSELECT * FROM TABLE(DBMS_SQLTUNE.REPORT_SQL_MONITOR(\n  sql_id => 'abc123xyz',\n  type   => 'HTML'\n));"
+            },
+            {
+              "type": "alert",
+              "alertType": "warning",
+              "text": "Cardinality misestimates (diferencias grandes entre E-Rows y A-Rows en el plan) son red flags. Indican statistics desactualizadas, data skew no capturado por histograms, o complex predicates que CBO no consigue estimar accurately."
+            },
+            {
+              "type": "heading",
+              "text": "Index Strategies para Oracle"
+            },
+            {
+              "type": "paragraph",
+              "text": "Oracle soporta múltiples tipos de índices más allá de B-tree standard: bitmap para low-cardinality columns, function-based para computed values, y domain indexes para tipos especializados."
+            },
+            {
+              "type": "bestPractices",
+              "items": [
+                "B-tree indexes: default choice, excelentes para high-cardinality columns y range scans",
+                "Bitmap indexes: perfectos para data warehouse y low-cardinality (gender, status, region)",
+                "Function-based indexes: indexan computed values como UPPER(email) o TRUNC(order_date)",
+                "Index Organized Tables (IOT): tabla almacenada como index — elimina table access overhead",
+                "Invisible indexes: pruebe nuevos indexes sin impactar consultas existentes inmediatamente",
+                "Index compression: reduzca storage e I/O para composite indexes con prefijos repetitivos"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Bitmap index para data warehouse\nCREATE BITMAP INDEX idx_product_category \nON sales(product_category);\n\n-- Function-based index\nCREATE INDEX idx_upper_email \nON customers(UPPER(email));\n\n-- Utilizarlo en la consulta\nSELECT * FROM customers \nWHERE UPPER(email) = 'contacto@example.invalid';\n\n-- Invisible index para testing\nCREATE INDEX idx_test INVISIBLE \nON orders(customer_id, order_date);\n\n-- Probar con session-level setting\nALTER SESSION SET optimizer_use_invisible_indexes = TRUE;\n-- Run test queries\nALTER SESSION SET optimizer_use_invisible_indexes = FALSE;\n\n-- Si benéfico, tornar visible\nALTER INDEX idx_test VISIBLE;"
+            },
+            {
+              "type": "heading",
+              "text": "AWR y Performance Diagnostics"
+            },
+            {
+              "type": "paragraph",
+              "text": "Automatic Workload Repository (AWR) es el foundation de Oracle performance diagnostics. Captura snapshots periódicos de performance metrics, permitiendo análisis histórico e identification de trends."
+            },
+            {
+              "type": "list",
+              "items": [
+                "AWR snapshots automáticamente cada hora (configurable) — retenidos 8 días por default",
+                "AWR reports comparan dos snapshots — identifican top SQL, wait events, resource consumption",
+                "ADDM (Automatic Database Diagnostic Monitor) analiza AWR y proporciona findings/recommendations automatizados",
+                "ASH (Active Session History) captura session activity en tiempo real — drill-down para períodos específicos",
+                "SQL Ajuste Advisor utiliza AWR data para recomendar indexes, SQL profiles, y rewrites",
+                "SQL Access Advisor recomienda materialized views y partitioning strategies"
+              ]
+            },
+            {
+              "type": "code",
+              "language": "sql",
+              "code": "-- Generar AWR report manualmente\n@$ORACLE_HOME/rdbms/admin/awrrpt.sql\n\n-- Vía SQL: últimas 24 horas\nSELECT output FROM TABLE(\n  DBMS_WORKLOAD_REPOSITORY.AWR_REPORT_HTML(\n    l_dbid     => (SELECT dbid FROM v$database),\n    l_inst_num => 1,\n    l_bid      => (SELECT MIN(snap_id) FROM dba_hist_snapshot \n                   WHERE begin_interval_time >= SYSDATE - 1),\n    l_eid      => (SELECT MAX(snap_id) FROM dba_hist_snapshot)\n  )\n);\n\n-- Ejecutar SQL Ajuste Advisor\nDECLARE\n  l_task_name VARCHAR2(30);\nBEGIN\n  l_task_name := DBMS_SQLTUNE.CREATE_TUNING_TASK(\n    sql_id      => 'abc123xyz',\n    scope       => 'COMPREHENSIVE',\n    time_limit  => 3600,\n    task_name   => 'tune_slow_query',\n    description => 'Tune problematic customer query'\n  );\n  \n  DBMS_SQLTUNE.EXECUTE_TUNING_TASK(l_task_name);\nEND;\n/\n\n-- Ver recomendaciones\nSELECT DBMS_SQLTUNE.REPORT_TUNING_TASK('tune_slow_query') \nFROM dual;"
+            },
+            {
+              "type": "heading",
+              "text": "Wait Events: Diagnosticar Bottlenecks"
+            },
+            {
+              "type": "paragraph",
+              "text": "Wait events indican por qué sessions están esperando en vez de ejecutar. Top wait events en AWR report dirigen esfuerzos de ajuste hacia los bottlenecks más impactantes."
+            },
+            {
+              "type": "table",
+              "data": [
+                {
+                  "feature": "db file sequential read",
+                  "option1": "Index scans, table access by rowid",
+                  "option2": "Check indexes, statistics"
+                },
+                {
+                  "feature": "db file scattered read",
+                  "option1": "Full table scans",
+                  "option2": "Add indexes, partition tables"
+                },
+                {
+                  "feature": "log file sync",
+                  "option1": "Commits esperando redo write",
+                  "option2": "Reduce commit frequency, faster disks"
+                },
+                {
+                  "feature": "enq: TX - row lock",
+                  "option1": "Row-level lock contention",
+                  "option2": "Application design issue"
+                },
+                {
+                  "feature": "latch: shared pool",
+                  "option1": "Hard parsing, library cache",
+                  "option2": "Bind variables, larger shared pool"
+                }
+              ]
+            },
+            {
+              "type": "quote",
+              "text": "No ajuste lo que no mide. Oracle proporciona métricas extensivas — utilícelas para decisiones basadas en datos, no en intuición.",
+              "author": "Equipa de demonstração"
+            },
+            {
+              "type": "alert",
+              "alertType": "tip",
+              "text": "Performance ajuste Oracle es una especialidad compleja. Nexo Data tiene Oracle Certified Professionals con décadas de experiencia. Contáctenos para un health check gratuito de su Oracle database."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "language": {
+    "en": "English",
+    "pt": "Português (Portugal)",
+    "ptBr": "Português (Brasil)",
+    "es": "Español"
+  },
+  "whatsapp": {
+    "contact": "Contactar vía WhatsApp",
+    "tooltip": "Hable con nosotros en WhatsApp"
+  },
+  "privacyPolicy": {
+    "hero": {
+      "title": "Política de Privacidad",
+      "lastUpdated": "Última actualización: enero de 2024"
+    },
+    "sections": {
+      "introduction": {
+        "title": "1. Introducción",
+        "body": "Nexo Data (\"nosotros\", \"nuestro\") está comprometida a proteger su privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y protegemos su información cuando visita nuestro sitio web o utiliza nuestros servicios."
+      },
+      "infoWeCollect": {
+        "title": "2. Información que Recopilamos",
+        "lead": "Podemos recopilar información sobre usted de varias formas:",
+        "items": [
+          "Datos Personales: nombre, dirección de email, número de teléfono, nombre de la empresa",
+          "Datos de Uso: dirección IP, tipo de navegador, páginas visitadas, tiempo de permanencia en las páginas",
+          "Cookies y Tecnologías de Rastreo"
+        ]
+      },
+      "howWeUse": {
+        "title": "3. Cómo Usamos Su Información",
+        "lead": "Usamos la información recopilada para:",
+        "items": [
+          "Proporcionar, operar y mantener nuestros servicios",
+          "Mejorar, personalizar y expandir nuestros servicios",
+          "Comunicarnos con usted sobre nuestros servicios",
+          "Procesar transacciones y enviar información relacionada",
+          "Cumplir con obligaciones legales"
+        ]
+      },
+      "gdpr": {
+        "title": "4. Cumplimiento con el GDPR",
+        "body": "Para usuarios en la Unión Europea, cumplimos con el Reglamento General de Protección de Datos (GDPR). Usted tiene el derecho de acceder, rectificar o eliminar sus datos personales, así como el derecho a la portabilidad de datos y el derecho a oponerse al tratamiento."
+      },
+      "dataSecurity": {
+        "title": "5. Seguridad de los Datos",
+        "body": "Implementamos medidas técnicas y organizativas adecuadas para proteger sus datos personales contra tratamiento no autorizado o ilícito, pérdida accidental, destrucción o daño."
+      },
+      "contact": {
+        "title": "6. Contáctenos",
+        "lead": "Si tiene alguna pregunta sobre esta Política de Privacidad, contáctenos:",
+        "items": [
+          "Email: contacto@example.invalid",
+          "Teléfono (Brasil): 000 000 000",
+          "Teléfono (Portugal): 000 000 000"
+        ]
+      }
+    }
+  }
+}
